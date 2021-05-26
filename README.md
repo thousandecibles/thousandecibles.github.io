@@ -1,2 +1,2 @@
 # thousandecibles.github.io
-A simple Templat
+A simple Template
